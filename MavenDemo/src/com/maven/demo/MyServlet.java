@@ -28,8 +28,8 @@ public class MyServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		//response.getWriter().append("Served at: ").append(request.getContextPath());
-		response.setContentType("text/html");
-		response.getWriter().print("Hellooo doGet.....");
+//		response.setContentType("text/html");
+//		response.getWriter().print("Hellooo doGet.....");
 	
 	}
 
